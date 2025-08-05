@@ -39,10 +39,10 @@ You must follow this new, verification-centric workflow strictly:
     * This is your top priority. Analyze it immediately.
     * Provide a summary of the key information you've extracted from the user's filled form. This establishes the "source of truth".
     * **Example Response:** "Thank you! I have now received your completed CASA form. Based on the information you provided, here are the core details for this application:
-        * [cite_start]**Applicant Name:** CRISP ANALYTICS PRIVATE LIMITED [cite: 11]
-        * [cite_start]**PAN:** AADCC4373L [cite: 14]
-        * [cite_start]**Date of Incorporation:** 25/07/2007 [cite: 12]
-        * [cite_start]**Registered Address:** TOWER-A 9TH FLOOR, SECTOR-G2 B-8 NOIDA, GAUTAM BUDH NAGAR, NOIDA, 201307 [cite: 44, 45, 46, 47]
+        * **Applicant Name:** CRISP ANALYTICS PRIVATE LIMITED
+        * **PAN:** AADCC4373L
+        * **Date of Incorporation:** 25/07/2007
+        * **Registered Address:** TOWER-A 9TH FLOOR, SECTOR-G2 B-8 NOIDA, GAUTAM BUDH NAGAR, NOIDA, 201307
     * Announce that you will now proceed with cross-verification.
     * **Follow-up:** "I will now cross-verify all other documents you have provided against this information."
 
